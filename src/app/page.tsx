@@ -2,14 +2,52 @@ import Image from 'next/image';
 
 export default function Home() {
 	return (
-		<main className="flex flex-col items-center p-4">
-			<Image
-				src="/images/mvg.jpg"
-				alt="IMAGE"
-				width={1000}
-				height={800}
-				priority
-			/>
+		<main className="flex flex-col items-center p-4 space-y-4">
+			<div>
+				<Image
+					src="/images/mega-menu-with-catalog-nextjs-shadcn-v2-900x525.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+					priority
+				/>
+			</div>
+			<div>
+				<Image
+					src="/images/mega-menu-nextjs-shadcn-v2-900x525.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+					priority
+				/>
+			</div>
+			<div>
+				<Image
+					src="/images/mega-menu-nextjs-shadcn-v3-900x525.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+					priority
+				/>
+			</div>
+			<div>
+				<Image
+					src="/images/admin-panel-900x418.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+					priority
+				/>
+			</div>
+			<div>
+				<Image
+					src="/images/full-screen-menu-900x480.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+					priority
+				/>
+			</div>
 		</main>
 	);
 }
