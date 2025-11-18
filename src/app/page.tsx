@@ -48,6 +48,24 @@ export default function Home() {
 					priority
 				/>
 			</div>
+			<div>
+				<Image
+					src="/images/mobile-dark.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+					priority
+				/>
+			</div>
+			<div>
+				<Image
+					src="/images/mobile-light.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+					priority
+				/>
+			</div>
 		</main>
 	);
 }
