@@ -29,6 +29,14 @@ export default function Home() {
 			</div>
 			<div>
 				<img
+					src="/images/mega-menu-nextjs-shadcn-v4-900x500.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+				/>
+			</div>
+			<div>
+				<img
 					src="/images/admin-panel-900x418.png"
 					alt="IMAGE"
 					width={1000}
@@ -45,6 +53,14 @@ export default function Home() {
 			</div>
 			<div>
 				<img
+					src="/images/portfolio-menu-min-900x575.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+				/>
+			</div>
+			<div>
+				<img
 					src="/images/mobile-dark.png"
 					alt="IMAGE"
 					width={1000}
@@ -54,6 +70,22 @@ export default function Home() {
 			<div>
 				<img
 					src="/images/mobile-light.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+				/>
+			</div>
+			<div>
+				<img
+					src="/images/mobile-2-900x500.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+				/>
+			</div>
+			<div>
+				<img
+					src="/images/mobile-3-900x500.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
