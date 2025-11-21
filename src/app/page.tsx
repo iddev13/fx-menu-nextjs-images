@@ -4,66 +4,59 @@ export default function Home() {
 	return (
 		<>
 			<div>
-				<Image
+				<img
 					src="/images/mega-menu-with-catalog-nextjs-shadcn-v2-900x525.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/mega-menu-nextjs-shadcn-v2-900x525.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/mega-menu-nextjs-shadcn-v3-900x525.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/admin-panel-900x418.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/full-screen-menu-900x480.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/mobile-dark.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/mobile-light.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 		</>
