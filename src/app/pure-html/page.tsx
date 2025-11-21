@@ -89,7 +89,6 @@ const PureHtmlPage = () => {
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
