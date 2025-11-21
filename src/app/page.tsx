@@ -29,6 +29,14 @@ export default function Home() {
 			</div>
 			<div>
 				<img
+					src="/images/features-530x685.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+				/>
+			</div>
+			<div>
+				<img
 					src="/images/mega-menu-nextjs-shadcn-v4-900x500.png"
 					alt="IMAGE"
 					width={1000}
