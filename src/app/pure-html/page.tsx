@@ -5,6 +5,15 @@ const PureHtmlPage = () => {
 		<>
 			<div>
 				<Image
+					src="/images/pure-html/mobile-version-1.jpg"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+					priority
+				/>
+			</div>
+			<div>
+				<Image
 					src="/images/pure-html/nav-13.jpg"
 					alt="IMAGE"
 					width={1000}
