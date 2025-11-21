@@ -45,22 +45,6 @@ export default function Home() {
 			</div>
 			<div>
 				<img
-					src="/images/full-screen-menu-900x480.png"
-					alt="IMAGE"
-					width={1000}
-					height={800}
-				/>
-			</div>
-			<div>
-				<img
-					src="/images/portfolio-menu-min-900x575.png"
-					alt="IMAGE"
-					width={1000}
-					height={800}
-				/>
-			</div>
-			<div>
-				<img
 					src="/images/mobile-dark.png"
 					alt="IMAGE"
 					width={1000}
@@ -86,6 +70,22 @@ export default function Home() {
 			<div>
 				<img
 					src="/images/mobile-3-900x500.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+				/>
+			</div>
+			<div>
+				<img
+					src="/images/portfolio-menu-min-900x575.png"
+					alt="IMAGE"
+					width={1000}
+					height={800}
+				/>
+			</div>
+			<div>
+				<img
+					src="/images/full-screen-menu-900x480.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
