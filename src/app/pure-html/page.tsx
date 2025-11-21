@@ -12,88 +12,79 @@ const PureHtmlPage = () => {
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-13.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-6.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-5.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-2.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/admin-panel-2.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/navbars-features.png"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-10.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-15.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-14.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-16.jpg"
 					alt="IMAGE"
 					width={1000}
@@ -102,30 +93,27 @@ const PureHtmlPage = () => {
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/nav-7.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/admin-panels-dark.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 			<div>
-				<Image
+				<img
 					src="/images/pure-html/full-screen-1.jpg"
 					alt="IMAGE"
 					width={1000}
 					height={800}
-					priority
 				/>
 			</div>
 		</>
