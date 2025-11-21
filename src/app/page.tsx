@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Home() {
 	return (
-		<main className="flex flex-col items-center p-4 space-y-4">
+		<>
 			<div>
 				<Image
 					src="/images/mega-menu-with-catalog-nextjs-shadcn-v2-900x525.png"
@@ -66,6 +66,6 @@ export default function Home() {
 					priority
 				/>
 			</div>
-		</main>
+		</>
 	);
 }
